@@ -1,0 +1,22 @@
+{
+  "name": "webpackstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoraJapin/webpackStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoraJapin/webpackStudy/issues"
+  },
+  "homepage": "https://github.com/DoraJapin/webpackStudy#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
